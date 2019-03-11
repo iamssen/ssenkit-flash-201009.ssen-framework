@@ -1,0 +1,27 @@
+<project name="ssen framework build" default="01.compile">
+	<property file="build.properties" />
+
+	<target name="01.compile">
+		<!--<fdt.launch.application projectname="${project.name}" mainclass="src/happy/Index.as" debug="true" target="${output.swf}/Index.swf" startswf="false" />
+		<fdt.launch.application projectname="${project.name}" mainclass="src/happy/Happy3000.as" debug="true" target="${output.swf}/Happy3000.swf" startswf="false" />
+		<fdt.startDebugger projectname="${project.name}" savelocation="launcher" />
+		<fdt.browse location="http://localhost/vicin/bin/index.html" />
+		<fdt.extSWFViewer.startSWF file="http://localhost/vicin/bin/index.html" width="1024" height="768" />-->
+	</target>
+	<target name="02.asdoc">
+		<delete dir="${output.asdoc}" failOnError="false" includeEmptyDirs="true" />
+		<mkdir dir="${output.asdoc}" />
+
+		<exec executable="${global.exe.asdoc}">
+			<arg line='-source-path ${project.src}' />
+			<arg line='-examples-path ${project.example}' />
+			<arg line='-doc-sources ${project.src}/ssen' />
+			<arg line="-library-path ${project.lib}" />
+			<arg line="-library-path ${global.lib.pure}" />
+			<arg line="-library-path ${global.lib.mx}" />
+			<arg line='-window-title "SSen Framework ASDoc"' />
+			<arg line='-main-title "SSen Framework ASDoc"' />
+			<arg line='-output ${output.asdoc}' />
+		</exec>
+	</target>
+</project>

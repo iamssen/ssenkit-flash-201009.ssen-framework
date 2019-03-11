@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ssen/!svn/ver/30/trunk/framework/src/ssen/framework/widgets/input
+END
+MultiLineTextWidget.as
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ssen/!svn/ver/30/trunk/framework/src/ssen/framework/widgets/input/MultiLineTextWidget.as
+END
+SingleLineTextWidget.as
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ssen/!svn/ver/30/trunk/framework/src/ssen/framework/widgets/input/SingleLineTextWidget.as
+END
+TextInput.as
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ssen/!svn/ver/30/trunk/framework/src/ssen/framework/widgets/input/TextInput.as
+END
+TextArea.as
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ssen/!svn/ver/30/trunk/framework/src/ssen/framework/widgets/input/TextArea.as
+END
+InputType.as
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ssen/!svn/ver/30/trunk/framework/src/ssen/framework/widgets/input/InputType.as
+END
+TextWidget.as
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ssen/!svn/ver/30/trunk/framework/src/ssen/framework/widgets/input/TextWidget.as
+END

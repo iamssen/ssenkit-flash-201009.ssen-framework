@@ -1,0 +1,27 @@
+K 26
+svn:wc:ra_dav:activity-url
+V 19
+/svn/ssen/!svn/act/
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/ssen/!svn/ver/47/trunk/framework
+END
+Widgets.graffle
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ssen/!svn/ver/46/trunk/framework/Widgets.graffle
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ssen/!svn/ver/46/trunk/framework/build.properties
+END
+build.ant
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ssen/!svn/ver/30/trunk/framework/build.ant
+END

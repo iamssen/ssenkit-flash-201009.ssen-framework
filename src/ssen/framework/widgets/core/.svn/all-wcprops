@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ssen/!svn/ver/46/trunk/framework/src/ssen/framework/widgets/core
+END
+InvalidSpriteWidget.as
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ssen/!svn/ver/30/trunk/framework/src/ssen/framework/widgets/core/InvalidSpriteWidget.as
+END
+IDisplayWidget.as
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ssen/!svn/ver/30/trunk/framework/src/ssen/framework/widgets/core/IDisplayWidget.as
+END
+IWidget.as
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ssen/!svn/ver/30/trunk/framework/src/ssen/framework/widgets/core/IWidget.as
+END
+WidgetState.as
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ssen/!svn/ver/30/trunk/framework/src/ssen/framework/widgets/core/WidgetState.as
+END
+SpriteWidget.as
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ssen/!svn/ver/30/trunk/framework/src/ssen/framework/widgets/core/SpriteWidget.as
+END
+Widget.as
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ssen/!svn/ver/46/trunk/framework/src/ssen/framework/widgets/core/Widget.as
+END

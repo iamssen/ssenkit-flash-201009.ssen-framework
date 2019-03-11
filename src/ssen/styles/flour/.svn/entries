@@ -1,0 +1,81 @@
+10
+
+dir
+51
+https://dev.naver.com/svn/ssen/trunk/framework/src/ssen/styles/flour
+https://dev.naver.com/svn/ssen
+
+
+
+2010-08-26T09:46:38.632323Z
+30
+ssen1980
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+ac82ffb6-8582-0410-a837-e738fd1d06b3
+
+
+
+
+
+
+0
+
+FlourTextFormatFactory.as
+file
+
+
+
+
+2010-08-11T14:54:01.000000Z
+dcdfeaeff5e05517acc99b432fb69f19
+2010-08-26T09:46:38.632323Z
+30
+ssen1980
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3191
+
+boxes
+dir
+
+btn
+dir
+
+panels
+dir
+
+scroll
+dir
+

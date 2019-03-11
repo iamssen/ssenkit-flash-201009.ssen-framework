@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ssen/!svn/ver/30/trunk/framework/src/ssen/core/draw/material
+END
+Bitmap15GridMaterial.as
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ssen/!svn/ver/30/trunk/framework/src/ssen/core/draw/material/Bitmap15GridMaterial.as
+END
+ArrowRectTest.as
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ssen/!svn/ver/30/trunk/framework/src/ssen/core/draw/material/ArrowRectTest.as
+END
+IDrawMaterialSet.as
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ssen/!svn/ver/30/trunk/framework/src/ssen/core/draw/material/IDrawMaterialSet.as
+END
+RoundRectMaterial.as
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ssen/!svn/ver/30/trunk/framework/src/ssen/core/draw/material/RoundRectMaterial.as
+END
+BitmapMaterial.as
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ssen/!svn/ver/30/trunk/framework/src/ssen/core/draw/material/BitmapMaterial.as
+END
+StripeMaterialTest.as
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ssen/!svn/ver/30/trunk/framework/src/ssen/core/draw/material/StripeMaterialTest.as
+END
+ITextFormatSet.as
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ssen/!svn/ver/30/trunk/framework/src/ssen/core/draw/material/ITextFormatSet.as
+END
+LinerGradientMaterial.as
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ssen/!svn/ver/30/trunk/framework/src/ssen/core/draw/material/LinerGradientMaterial.as
+END
+ArrowRectMaterial.as
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ssen/!svn/ver/30/trunk/framework/src/ssen/core/draw/material/ArrowRectMaterial.as
+END
+IDrawMaterial.as
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ssen/!svn/ver/30/trunk/framework/src/ssen/core/draw/material/IDrawMaterial.as
+END
+StripeMaterial.as
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ssen/!svn/ver/30/trunk/framework/src/ssen/core/draw/material/StripeMaterial.as
+END
+SolidMaterial.as
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ssen/!svn/ver/30/trunk/framework/src/ssen/core/draw/material/SolidMaterial.as
+END
+StripeLine.as
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ssen/!svn/ver/30/trunk/framework/src/ssen/core/draw/material/StripeLine.as
+END

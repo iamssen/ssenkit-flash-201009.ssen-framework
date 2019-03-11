@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ssen/!svn/ver/30/trunk/framework/src/ssen/framework/errors
+END
+ValueUnMatchError.as
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ssen/!svn/ver/30/trunk/framework/src/ssen/framework/errors/ValueUnMatchError.as
+END
+ImplementationError.as
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ssen/!svn/ver/30/trunk/framework/src/ssen/framework/errors/ImplementationError.as
+END
+TypeUnMatchError.as
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ssen/!svn/ver/30/trunk/framework/src/ssen/framework/errors/TypeUnMatchError.as
+END
+WidgetFlowError.as
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ssen/!svn/ver/30/trunk/framework/src/ssen/framework/errors/WidgetFlowError.as
+END

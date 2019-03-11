@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextFlow blockProgression="tb" columnCount="inherit" columnGap="inherit" columnWidth="inherit" fontLookup="embeddedCFF" lineBreak="toFit" locale="en_GB" paddingBottom="inherit" paddingLeft="inherit" paddingRight="inherit" paddingTop="inherit" verticalAlign="inherit" whiteSpaceCollapse="preserve" xmlns="http://ns.adobe.com/textLayout/2008">
+    <p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="10" paragraphStartIndent="10" textAlign="center" textAlignLast="start" textIndent="0" textJustify="interWord">
+        <span color="#0066cc" fontFamily="NanumGothic Bold" fontLookup="inherit" fontSize="10" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="120%" textAlpha="1" textRotation="auto" trackingRight="0%">
+            가나다라마바사...
+        </span>
+    </p>
+    <p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="10" paragraphStartIndent="10" textAlign="center" textAlignLast="start" textIndent="0" textJustify="interWord">
+        <span color="#0066cc" fontFamily="NanumGothic Bold" fontLookup="inherit" fontSize="10" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="120%" textAlpha="1" textRotation="auto" trackingRight="0%">
+        </span>
+    </p>
+    <p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="10" paragraphStartIndent="10" textAlign="center" textAlignLast="start" textIndent="0" textJustify="interWord">
+        <span color="#0066cc" fontFamily="NanumGothic Bold" fontLookup="inherit" fontSize="10" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="120%" textAlpha="1" textRotation="auto" trackingRight="0%">
+            아자
+        </span>
+        <span color="#0066cc" fontFamily="NanumGothic Bold" fontLookup="inherit" fontSize="17" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="120%" textAlpha="1" textRotation="auto" trackingRight="0%">
+            차카타
+        </span>
+        <span color="#0066cc" fontFamily="NanumGothic Bold" fontLookup="inherit" fontSize="10" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="120%" textAlpha="1" textRotation="auto" trackingRight="0%">
+            파하...
+        </span>
+        <span color="#cc9900" fontFamily="NanumGothic Bold" fontLookup="inherit" fontSize="10" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="120%" textAlpha="1" textRotation="auto" trackingRight="0%">
+            으흐흐
+        </span>
+        <span color="#0066cc" fontFamily="NanumGothic Bold" fontLookup="inherit" fontSize="10" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="120%" textAlpha="1" textRotation="auto" trackingRight="0%">
+            흐흐...
+        </span>
+    </p>
+</TextFlow>
+
+
+<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+    <p>
+        <span>
+            가나다라마바사...
+        </span>
+    </p>
+    <p>
+        <span>
+        </span>
+    </p>
+    <p>
+        <span>
+            아자
+        </span>
+        <span fontSize="17" fontWeight="bold">
+            차카타
+        </span>
+        <span>
+            파하...
+        </span>
+        <span color="#cc9900">
+            으흐흐
+        </span>
+        <span>
+            흐흐...
+        </span>
+    </p>
+</TextFlow>

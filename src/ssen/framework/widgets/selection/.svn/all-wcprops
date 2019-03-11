@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ssen/!svn/ver/30/trunk/framework/src/ssen/framework/widgets/selection
+END
+ISelectionItem.as
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ssen/!svn/ver/30/trunk/framework/src/ssen/framework/widgets/selection/ISelectionItem.as
+END
+ISelection.as
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ssen/!svn/ver/30/trunk/framework/src/ssen/framework/widgets/selection/ISelection.as
+END
+SelectionGroup.as
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ssen/!svn/ver/30/trunk/framework/src/ssen/framework/widgets/selection/SelectionGroup.as
+END

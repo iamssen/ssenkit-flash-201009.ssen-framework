@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ssen/!svn/ver/46/trunk/framework/src/ssen/core/draw
+END
+PathMaker.as
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ssen/!svn/ver/30/trunk/framework/src/ssen/core/draw/PathMaker.as
+END
+TailBoxTest.as
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ssen/!svn/ver/30/trunk/framework/src/ssen/core/draw/TailBoxTest.as
+END
+TailBox.as
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ssen/!svn/ver/30/trunk/framework/src/ssen/core/draw/TailBox.as
+END
+DistortBitmap.as
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ssen/!svn/ver/30/trunk/framework/src/ssen/core/draw/DistortBitmap.as
+END
+IDrawData.as
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ssen/!svn/ver/30/trunk/framework/src/ssen/core/draw/IDrawData.as
+END
+DrawTest.as
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ssen/!svn/ver/46/trunk/framework/src/ssen/core/draw/DrawTest.as
+END
+drawDatas.as
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ssen/!svn/ver/30/trunk/framework/src/ssen/core/draw/drawDatas.as
+END
+Line.as
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ssen/!svn/ver/30/trunk/framework/src/ssen/core/draw/Line.as
+END
+Rect.as
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ssen/!svn/ver/34/trunk/framework/src/ssen/core/draw/Rect.as
+END
+Donut.as
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ssen/!svn/ver/30/trunk/framework/src/ssen/core/draw/Donut.as
+END

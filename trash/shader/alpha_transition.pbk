@@ -1,0 +1,30 @@
+<languageVersion : 1.0;>
+
+kernel AlphaTransiton
+<   namespace : "ssen.core.draw.shader";
+    vendor : "SSen's Factory";
+    version : 1;
+    description : "alpha transition";
+>
+{
+    input image4 src;
+    output pixel4 dst;
+    
+    parameter float view <
+        minValue:0.0;
+        maxValue:1.0;
+        defaultValue:0.5;
+    >;
+    
+    parameter float state <
+        minValue:0.0;
+        maxValue:1.0;
+        defaultValue:0.5;
+    >;
+
+    void evaluatePixel()
+    {
+        dst = sampleNearest(src,outCoord());
+        dst.a = state;
+    }
+}

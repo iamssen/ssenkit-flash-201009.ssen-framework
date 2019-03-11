@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ssen/!svn/ver/30/trunk/framework/src/ssen/debug/autocase
+END
+AutoCase.as
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ssen/!svn/ver/30/trunk/framework/src/ssen/debug/autocase/AutoCase.as
+END
+CaseOrder.as
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ssen/!svn/ver/30/trunk/framework/src/ssen/debug/autocase/CaseOrder.as
+END
+RandomInt.as
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ssen/!svn/ver/30/trunk/framework/src/ssen/debug/autocase/RandomInt.as
+END
+IRandomValue.as
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ssen/!svn/ver/30/trunk/framework/src/ssen/debug/autocase/IRandomValue.as
+END
+RandomBoolean.as
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ssen/!svn/ver/30/trunk/framework/src/ssen/debug/autocase/RandomBoolean.as
+END
+Random.as
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ssen/!svn/ver/30/trunk/framework/src/ssen/debug/autocase/Random.as
+END
+ICaseCommand.as
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ssen/!svn/ver/30/trunk/framework/src/ssen/debug/autocase/ICaseCommand.as
+END
+RandomPercent.as
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ssen/!svn/ver/30/trunk/framework/src/ssen/debug/autocase/RandomPercent.as
+END
+CaseState.as
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ssen/!svn/ver/30/trunk/framework/src/ssen/debug/autocase/CaseState.as
+END
